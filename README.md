@@ -6,7 +6,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <gif align="center" src="(https://mir-s3-cdn-cf.behance.net/project_modules/source/bbefa799786133.5efa9bf3d1b49.gif)" alt="Gif">
+  <img align="center" src="(https://mir-s3-cdn-cf.behance.net/project_modules/source/bbefa799786133.5efa9bf3d1b49.gif)" alt="img">
 </p>
 
 <!-- Presentation -->
