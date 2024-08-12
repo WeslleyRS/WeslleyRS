@@ -6,14 +6,14 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="(https://mir-s3-cdn-cf.behance.net/project_modules/source/bbefa799786133.5efa9bf3d1b49.gif)" alt="img">
+  <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/bbefa799786133.5efa9bf3d1b49.gif" alt="img">
 </p>
 
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Weslley Rodrigues ! A passionate CyberSecurity and Data Science student from Brazil.
 
-  - 🌱 I’m currently Python and C++ in Curso em Vídeo
+  - 🌱 I’m currently studying Python and C++ in Curso em Vídeo
     
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with CyberSecurity and DevOps.
 </p>
