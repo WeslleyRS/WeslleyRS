@@ -31,8 +31,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/weslley_0190?igsh=MWJmbWJ1d3d5cHVtOQ==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslley-rodrigues-silveira/)
 
-![snake gif](https://github.com/WeslleyRS/WeslleyRS/blob/output/github-contribution-grid-snake.gif)
-
 <!-- Portfolio -->
 ## Portfolio:
 - [Python Studies](https://github.com/WeslleyRS/Estudo-Python)
@@ -67,3 +65,5 @@
     <img align="center" alt="Debian" height="40" width="80" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
     <img align="center" alt="Windows" height="40" width="80" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </div>
+
+![snake gif](https://github.com/WeslleyRS/WeslleyRS/blob/output/github-contribution-grid-snake.gif)
