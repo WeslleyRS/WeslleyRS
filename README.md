@@ -6,15 +6,15 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="(https://mir-s3-cdn-cf.behance.net/project_modules/source/bbefa799786133.5efa9bf3d1b49.gif)" alt="Imagem">
+  <gif align="center" src="(https://mir-s3-cdn-cf.behance.net/project_modules/source/bbefa799786133.5efa9bf3d1b49.gif)" alt="Gif">
 </p>
 
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Weslley Rodrigues ! A passionate CyberSecurity and Data Science student from Brazil.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
+  - 🌱 I’m currently Python and C++ in Curso em Vídeo
+    
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with CyberSecurity and DevOps.
 </p>
 
@@ -28,8 +28,8 @@
 </details>
 
 <!-- Links -->
-[![Instagram](https://www.instagram.com/weslley_0190?igsh=MWJmbWJ1d3d5cHVtOQ==)(https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslley-rodrigues-silveira/)
+[![Instagram](https://www.instagram.com/weslley_0190?igsh=MWJmbWJ1d3d5cHVtOQ==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/weslley-rodrigues-silveira/)
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -44,24 +44,24 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="C++" height="30" width="40" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img align="center" alt="Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="My SQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="Python" height="60" width="40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="C++" height="60" width="40" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img align="center" alt="Java" height="60" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align="center" alt="My SQL" height="60" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     
   </div>
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="VScode" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
 
   <!-- O.S -->
   <div style="flex-basis: 48%;">
     <h3>Operating Systems</h3>
-    <img align="center" alt="Kali-Linux" height="30" width="40" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-    <img align="center" alt="Ubuntu" height="30" width="40" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img align="center" alt="Debian" height="30" width="40" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-    <img align="center" alt="Windows" height="30" width="40" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img align="center" alt="Kali-Linux" height="60" width="40" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+    <img align="center" alt="Ubuntu" height="60" width="40" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img align="center" alt="Debian" height="60" width="40" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+    <img align="center" alt="Windows" height="60" width="40" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </div>
