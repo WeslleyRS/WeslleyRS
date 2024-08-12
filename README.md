@@ -31,6 +31,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/weslley_0190?igsh=MWJmbWJ1d3d5cHVtOQ==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslley-rodrigues-silveira/)
 
+![snake gif](https://github.com/WeslleyRS/.github/workflows/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Portfolio -->
 ## Portfolio:
 - [Python Studies](https://github.com/WeslleyRS/Estudo-Python)
