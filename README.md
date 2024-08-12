@@ -13,7 +13,7 @@
 <p>
   Hi 👋, I'm Weslley Rodrigues ! A passionate CyberSecurity and Data Science student from Brazil.
 
-  - 🌱 I’m currently studying Python and C++ in Curso em Vídeo
+  - 🌱 I’m currently studying Python and C++ in Curso em Vídeo.
     
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with CyberSecurity and DevOps.
 </p>
