@@ -41,7 +41,7 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Weslley-RS&show_icons=true&theme=gotham)
 
 ## 🔥 Skills
-<!-- Skills: Programming Languages -->
+<!-- Skills in development: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
