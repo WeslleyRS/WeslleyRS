@@ -40,7 +40,7 @@
   <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Weslley-RS&show_icons=true&theme=gotham)
 
-## 🔥 Skills
+## 🔥 Skills in development
 <!-- Skills in development: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
